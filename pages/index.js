@@ -47,7 +47,7 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> 😳 SoftoBiz Store 😈</p>
+          <p className="header"> 😳 Buy & Sell Products 😈</p>
           <p className="sub-text">The only  store that accepts shitcoins</p>
 
           {isOwner && (
